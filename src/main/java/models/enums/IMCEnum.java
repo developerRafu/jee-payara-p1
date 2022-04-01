@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public enum IMCEnum {
     ABAIXO(0, "Abaixo do peso"),
-    NORMAL(1, "imc normal"),
+    NORMAL(1, "IMC normal"),
     ACIMA(2, "Acima do peso"),
     OBESO(3, "Obeso");
 
